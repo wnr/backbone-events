@@ -2,7 +2,7 @@
   "name": "backbone-events",
   "version": "1.0.0",
   "description": "Localized Backbone Events System",
-  "main": "index.js",
+  "main": "src/events.js",
   "scripts": {
     "test": "qunit 'src/eventsSpec.js'"
   },
